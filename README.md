@@ -1,4 +1,4 @@
-# Countries List
+# Countries List Android app
 This is an app to provide basic information of all the countries using retrofit 2
 
  ## Getting started
